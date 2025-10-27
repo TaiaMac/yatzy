@@ -28,12 +28,12 @@
     - Semantic HTML and ARIA labels for screen readers
 
 ## Responsive Design
-    - CSS Grid and Flexbox layout
+    - CSS Grid and Flexbox layout 
     - Scales correctly on phones and tablets
     - Buttons and dice reposition vertically on narrow screens
 
 ## File Structure
-yatzy
+yatzy (npx http-server)
     index.html          # Main structure and layout
     yatzy_dice.css      # Styling, responsive layout, dice animation
     dice.js             # Dice utility class
@@ -68,3 +68,11 @@ yatzy
 Taia Maclaurin
 CST3106 Assignment 1
 Single-Player Yatzy Game Development (JS)
+
+## References
+    - https://getbootstrap.com 
+    - https://github.com/peippo/yahtzee 
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    - OpenAI(2025) ChatGPT Retrieved October 20 2025 from https://chat.openai.com
+    - https://github.com/dsmcclain
+    - in class lectures

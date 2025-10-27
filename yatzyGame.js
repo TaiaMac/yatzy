@@ -198,3 +198,8 @@ window.addEventListener("load", () => {
   renderDice();
   renderScoreboard();
 });
+
+//Reference: 
+  //https://getbootstrap.com 
+  //https://github.com/peippo/yahtzee 
+  //https://developer.mozilla.org/en-US/docs/Glossary/Truthy
