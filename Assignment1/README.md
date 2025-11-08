@@ -67,7 +67,7 @@ yatzy (npx http-server)
 ## Developer
 Taia Maclaurin
 CST3106 Assignment 1
-Single-Player Yatzy Game Development (JS)
+Single-Player Yatzy Game (JS)
 
 ## References
     - https://getbootstrap.com 
